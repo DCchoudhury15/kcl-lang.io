@@ -297,6 +297,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['bnf']
       },
       docs: {
         sidebar: {
